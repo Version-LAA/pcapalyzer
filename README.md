@@ -13,14 +13,18 @@ pcapalyzer.py [FileName.pcap]
   2. Amount of packets contained within user supplied pcap.
   3. Date/Time of first packet within pcap
   4. Date/Time of last packet within pcap
+  
 - Top talkers
   Provides a listing of the top talkers within the packet capture, along with the amount of packets sent by the IP address.
+  
 - Common Protocols Identified
   Provides a listing of some common protocols identified within the pcap based on a destination port lookup.
+  
 - DNS Traffic Identification
-  If applicable and exist within pcap file, this will provide a listing of all dns request along with the requesting IP
+  If applicable and exist within pcap file, this will provide a listing of all dns request along with the requesting IP.
+  
 - HTTP Traffic Identification
-  If applicable and exist within pcap file, this will provide a listing of all HTTP GET request along with the requesting IP
+  If applicable and exist within pcap file, this will provide a listing of all HTTP GET request along with the requesting IP.
 
   
 
