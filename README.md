@@ -10,8 +10,10 @@ PCAPalyzer is a simple packet capture review script designed to take a user supp
 
 pcapalyzer.py [FileName.pcap]
 
-version 1.0
+
 # Output
+
+version 1.0
 - General Information Section
   1. Pcap name
   2. Amount of packets contained within user supplied pcap.
