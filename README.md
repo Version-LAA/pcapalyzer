@@ -1,7 +1,10 @@
 # pcapalyzer
 
-PCAPalyzer is a simple packet capture review tool designed to take a user supplied pcap file and provide a basic summary of the file provided using the Pyshark library. 
+PCAPalyzer is a simple packet capture review script designed to take a user supplied pcap file and provide a basic summary of the file provided using the Pyshark library. 
 
+#Installation/Running
+
+- Please be sure to place pcap file within pcapalyzer root folder.
 
 # Syntax
 
