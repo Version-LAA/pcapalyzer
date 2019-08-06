@@ -35,7 +35,15 @@ version 1.0
   
   
 # Sample Output Images
-![User Input ](https://github.com/cybersecurebyte/pcapalyzer/blob/master/Screen%20Shot%202019-08-05%20at%207.58.37%20PM.png)
+
+![User Input/General Information ](https://github.com/cybersecurebyte/pcapalyzer/blob/master/Screen%20Shot%202019-08-05%20at%208.18.02%20PM.png)
+
+![Top Talkers/ Common Protocols ](https://github.com/cybersecurebyte/pcapalyzer/blob/master/Screen%20Shot%202019-08-05%20at%208.18.15%20PM.png)
+
+![DNS/HTTP Info ](https://github.com/cybersecurebyte/pcapalyzer/blob/master/Screen%20Shot%202019-08-05%20at%208.18.27%20PM.png)
+
+
+![IP's / Ports](https://github.com/cybersecurebyte/pcapalyzer/blob/master/Screen%20Shot%202019-08-05%20at%208.18.38%20PM.png)
 
 
 
